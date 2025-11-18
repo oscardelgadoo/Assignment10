@@ -1,5 +1,5 @@
 # Deliberately old/vulnerable versions for demonstration
-flask==2.0.0
+flask==3.1.2
 requests==2.25.0
 django==3.1.0
 pillow==8.0.0
